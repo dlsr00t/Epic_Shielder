@@ -70,8 +70,8 @@ class Exec:
                 print("Você não escolheu um numero de ação valido!\n\n\n")
 
 
-
-executar = Exec()
+if __name__ == "__main__":
+    executar = Exec()
 
 
 #pessoa1 = userCreator()
