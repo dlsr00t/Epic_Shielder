@@ -1,5 +1,9 @@
 #nome = '\\CAPSV\\Users\\Public\\01 - ASPER\\ACA\\12 - 0359-22 - RENAULT-MASTER ACA V20P\\PROCESSO ESCANEADO\\ENVIO ITL VIV'
-import subprocess
+###objetivo desse programa é controle de login, para ver qual usuario acessou qual arquivo
+###e quando o usuario acessa algum arquivo o epic_shielder tem que assegurar que fique registrado
+###quem acessou o arquivo e quando foi acessado
+
+import os
 
 class userCreator:
     def __init__(self):
@@ -21,6 +25,9 @@ class userCreator:
             usuarios.write(nome)
             usuarios.write('\n')
             usuarios.write(senha)
+            usuarios.write('\n')
+            ###se o ID de usuario ja existir vc nao pode deixar outro usuario com o mesmo ID ser criado!
+
             #print(usuarios.readlines())
 
 class userDelete:
@@ -31,7 +38,14 @@ class userDelete:
 class viewAllUsers:
     def __init__(self):
         with open('UserList.txt', 'r') as usuarios:
-            print(usuarios.read())
+            tst = usuarios.read() 
+            print(type(tst))
+            print(tst)
+   
+            if tst == "" or tst == None:
+                print("Não existem usuarios!")
+            else:   
+                print(tst)
 
 #class Identificacao:
 #    def __init__(self):
@@ -70,8 +84,8 @@ class Exec:
                 print("Você não escolheu um numero de ação valido!\n\n\n")
 
 
-if __name__ == "__main__":
-    executar = Exec()
+
+executar = Exec()
 
 
 #pessoa1 = userCreator()
