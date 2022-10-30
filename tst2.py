@@ -8,7 +8,7 @@ class MyHandler(FileSystemEventHandler):
     def on_any_event(self, event):
         print('Evento', event.event_type,' caminho:', event.src_path, 'diretorio?', event.is_directory)
 
-path = "C:\\Users\\CAP12\\Documents"
+path = "/home/foureyes/.programs/python/sqlite"
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S')
