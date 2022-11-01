@@ -1,6 +1,10 @@
-import os
+###codigo para transformar bytes em string
 
-print(os.listdir())
-print(os.stat("\\\\CAPSV\\Users\\Public\\RAFAEL\\epic_shielder-main\\epic_shilder.py"))
+import subprocess as sp
 
-print("\\\\CAPSV\\Users\\Public\\RAFAEL")
+variavel = sp.run(['dir'], shell=True, capture_output=True)
+variavel = variavel.stdout
+variavel = "".join(map(chr, variavel))
+print(variavel)
+
+
