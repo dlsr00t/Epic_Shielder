@@ -1,0 +1,119 @@
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E\1.1 ANEXOS PROCESSO - SR-TRUCKVAN MC 3E.docx diretorio? False
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E\~$1 ANEXOS PROCESSO - SR-TRUCKVAN MC 3E.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E\~$1 ANEXOS PROCESSO - SR-TRUCKVAN MC 3E.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E\1.1 ANEXOS PROCESSO - SR-TRUCKVAN MC 3E.docx diretorio? False
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\VERIFICAÇÃO DE CONFORMIDADE 2022\ACESSO IBAMA\~$GIN E SENHA  UNITRANS.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\VERIFICAÇÃO DE CONFORMIDADE 2022\ACESSO IBAMA diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\c-api diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\data diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\distributing diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\distutils diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\extending diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\faq diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\howto diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\includes diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\includes\sqlite3 diretorio? True
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\073 - 0702-22 - SR-TRUCKVAN MC 3E\~$1 ANEXOS PROCESSO - SR-TRUCKVAN MC 3E.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\install diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\installing diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\library diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\reference diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\extensions diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\pydoctheme diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\pydoctheme\static diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL PROPAGANDAS diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\33 - 0714-22 - I-FORD TRANSIT UNITR P2\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\33 - 0714-22 - I-FORD TRANSIT UNITR P2 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\1 - LISTA CONTROLE DE PROCESSOS\CONTROLE PROCESSO DENATRAN diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL PROPAGANDAS\TABELA PROPAGANDA 01.xlsx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\1.2 - CONTRATO 0025-0621 VIV - ACA.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\1 - LISTA CONTROLE DE PROCESSOS\CONTROLE PROCESSO DENATRAN\LISTA CONTROLE DE PROCESSOS SENATRAN - PENDENTES 2020-2022.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\1.1 ANEXOS DO PROTÓTIPO - I-M.BENZ 416 ACA M.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ANEXO B - LISTA DE VERIFICAÇÃO VIV 0025-0621 - ACA.docx diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\.git\hooks diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\.git\info diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\.git\objects diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\.git\refs diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\DOCUMENTOS EMPRESA TRUCKVAN\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\DOCUMENTOS EMPRESA TRUCKVAN diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\TRUCKVAN\DOCUMENTOS EMPRESA TRUCKVAN\Formulário de liberação ABNT - TRUCKVAN.docx diretorio? False
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\12 - 1103-22 BI TREM 3 EIXOS\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\12 - 1103-22 BI TREM 3 EIXOS\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\12 - 1103-22 BI TREM 3 EIXOS\CONTRATOS E BOLETOS RDT diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\12 - 1103-22 BI TREM 3 EIXOS\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\10 - 0908 - 22 SR-SELVA SRS SRPRS4\CRIAÇÃO DE WMI\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\10 - 0908 - 22 SR-SELVA SRS SRPRS4\CRIAÇÃO DE WMI\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\10 - 0908 - 22 SR-SELVA SRS SRPRS4\CRIAÇÃO DE WMI diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\10 - 0908 - 22 SR-SELVA SRS SRPRS4\CRIAÇÃO DE WMI\Thumbs.db diretorio? False
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\11 - 1102-22 CARROCERIA BASCULANTE\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\11 - 1102-22 CARROCERIA BASCULANTE\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\11 - 1102-22 CARROCERIA BASCULANTE\CONTRATOS E BOLETOS RDT diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\11 - 1102-22 CARROCERIA BASCULANTE\CONTRATOS E BOLETOS RDT\Thumbs.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\VALE DAS CARRETAS\11 - 0551-22 - CARROCERIA BASCULANTE - RENOV.2022\PROCESSO ESCANEADO\ENVIO VIV\PROCESSO ESCANEADO RENOVAÇÃO CARROCERIA BASCULANTE.pdf diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\VALE DAS CARRETAS\11 - 0551-22 - CARROCERIA BASCULANTE - RENOV.2022\PROCESSO ESCANEADO diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\VALE DAS CARRETAS\11 - 0551-22 - CARROCERIA BASCULANTE - RENOV.2022 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\VALE DAS CARRETAS\11 - 0551-22 - CARROCERIA BASCULANTE - RENOV.2022\PROCESSO ESCANEADO\ENVIO VIV\PROCESSO ESCANEADO RENOVAÇÃO CARROCERIA BASCULANTE.pdf diretorio? False
+Evento created caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\AC\Temp\CASESENSITIVETESTc579c656698f453795fcc763f2c4b5af diretorio? False
+Evento deleted caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\AC\Temp\CASESENSITIVETESTc579c656698f453795fcc763f2c4b5af diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\AC\Temp diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\AC\TokenBroker\Cache\e71e1300703d5395820e448840a760f0dd25ad50.tbres diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles\CachedImage_1024_768_POS4.jpg diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\GLEAM-DARK.svg diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\ShellFeeds\GLEAM-LIGHT.svg diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat.LOG1 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Promotions\IntelMarketingMaterialTimestamp.txt diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\LocalState diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Roaming\Microsoft\SystemCertificates\My\Certificates diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Roaming\Microsoft\SystemCertificates\My\CRLs diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Roaming\Microsoft\SystemCertificates\My\CTLs diretorio? False
+Evento modified caminho: \\CAPSV\Users\desktop.ini diretorio? False
+Evento created caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\AC\BackgroundTransferApi\dbf2570f-65ea-4ae8-85d4-fae553ea6555.up_meta_secure diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\AppUp.IntelGraphicsExperience_8j3eq9eme6ctt\LocalState\Intel\GCC\gcc_log_information_20221108.txt diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Intel\GCC\gcc_core_log_2022-11-08.txt diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\77EC63BDA74BD0D0E0426DC8F8008506 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\57C8EDB95DF3F0AD4EE2DC2B8CFD4157 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat.LOG1 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\onesettings_waas_featuremanagement diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\onesettings_waas_featuremanagement\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\onesettings_waas_featuremanagement\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\202914 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\202914\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\202914\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\280815 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\280815\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\280815\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310091 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310091\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310091\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310093 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310093\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\310093\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\314559 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\314559\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\314559\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\338387 diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\338387\imprbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\CAPSV\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\ContentManagementSDK\Creatives\338387\eventbeacons.dat diretorio? False
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\LCVM diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\ENVIO 02 - 14-06-21 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\ENVIO 01 - 09-06-21 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\DOCUMENTOS ESCANEADOS diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\1705.20 - CONTRATOS E BOLETOS RDT\ENVIO diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\1705.20 - CONTRATOS E BOLETOS RDT diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\1705.20 - CONTRATOS E BOLETOS RDT\BOLETOS diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\0524-21 - CONTRATOS E BOLETOS CAP\ENVIO diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\0524-21 - CONTRATOS E BOLETOS CAP diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\26 - 0524-21 -I- FIAT DUCATO UNITR PAS1\0524-21 - CONTRATOS E BOLETOS CAP\BOLETOS diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\25 - 0523-21 - I-FIAT DUCATO UNITR M - PARADO\TAXA 4.3 GRU-FUNSET - I-FIAT DUCATO UNITR M diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\25 - 0523-21 - I-FIAT DUCATO UNITR M - PARADO diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\25 - 0523-21 - I-FIAT DUCATO UNITR M - PARADO\PROTOTIPO - 3C6DFVDK2ME538129\ENVIO VIV 02 - 31-05-21 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\25 - 0523-21 - I-FIAT DUCATO UNITR M - PARADO\PROTOTIPO - 3C6DFVDK2ME538129 diretorio? True
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\25 - 0523-21 - I-FIAT DUCATO UNITR M - PARADO\PROTOTIPO - 3C6DFVDK2ME538129\ENVIO VIV - 28-05-21 diretorio? True

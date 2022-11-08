@@ -5,7 +5,10 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import os
 import subprocess as sp
+import datetime
 
+
+fim = None
 class MyHandler(FileSystemEventHandler):
     def on_any_event(self, event):
         global tipo_evento
@@ -31,7 +34,16 @@ class MyHandler(FileSystemEventHandler):
             time.sleep(1)
             print("\033[34mtérmino da funcao\033[m")
 
+def get_m_time(path):
+    #path = r'\\capsv\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\arquivo.pdf'
+    #print(os.path.getmtime(path))
+    tempo = os.path.getmtime(path)
+    tempo_for_humans = datetime.datetime.fromtimestamp(tempo)
+    print(tempo_for_humans)
+
+
 os.system('cls')if os.name == 'nt' else os.system('clear')
+
 
 path = input("Digite o caminho \033[4;33m[pressione enter para uso do caminho padrão]\033[m: ")
 if path == "" and os.name == "nt":
@@ -54,34 +66,42 @@ observer.start()
 #observer.join()
 
 
-try:
-    while True:
-        #print("aguardando")
-        #time.sleep(1)
-        '''
-        observer = Observer()
-        observer.schedule(MyHandler(), path, recursive=True)
-        observer.start()
-        '''
-        try:
-
-            if fim == "acabou!":
-                    
-                    #observer.stop()
-                    #os.system("dir")
-                    variavel = sp.run(['dir'], shell=False, capture_output=True)
-                    variavel = variavel.stdout
-                    variavel = "".join(map(chr, variavel))
-                    print(variavel)
-                    
-        except KeyboardInterrupt:
+#try:
+while True:
+    #print("aguardando")
+    #time.sleep(1)
+    '''
+    observer = Observer()
+    observer.schedule(MyHandler(), path, recursive=True)
+    observer.start()
+    '''
+    try:
+        #global fim
+        if fim == "acabou!":
+                
+            #observer.stop()
+            #os.system("dir")
+            '''
+            variavel = sp.run(['dir'], shell=True, capture_output=False)
+            variavel = variavel.stdout
+            variavel = "".join(map(chr, variavel))
+            print(variavel)
             observer.stop()
             break
-        except:
-            pass
+            '''
+            get_m_time(caminho)
+            observer.stop()
+            break
 
-except KeyboardInterrupt:
-    observer.stop()
+    except KeyboardInterrupt:
+        observer.stop()
+        print("interupcao")
+        break
+        
+        #except:
+        #    pass
+
+
 
 observer.join()
 
