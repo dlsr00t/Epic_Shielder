@@ -7,32 +7,32 @@ import os
 import subprocess as sp
 import datetime
 
-
+user = "Douglas (PROGRAMADOR)"
 fim = None
 class MyHandler(FileSystemEventHandler):
     def on_any_event(self, event):
         global tipo_evento
         
-        if event.src_path != '\\\\CAPSV\\Users\\Public\\RAFAEL\\Epic_Shielder-diretamente-do-lenovo-ideapad\\eventos.txt':
-            if event.event_type == "modified":
-                tipo_evento = "\033[33m modified \033[m"
-            elif event.event_type == "created":
-                tipo_evento = "\033[32m created \033[m"
-            elif event.event_type == "deleted":
-                tipo_evento = "\033[31m deleted \033[m"
+        #if event.src_path != '\\\\CAPSV\\Users\\Public\\RAFAEL\\Epic_Shielder-diretamente-do-lenovo-ideapad\\eventos.txt':
+        if event.event_type == "modified":
+            tipo_evento = "\033[33m modified \033[m"
+        elif event.event_type == "created":
+            tipo_evento = "\033[32m created \033[m"
+        elif event.event_type == "deleted":
+            tipo_evento = "\033[31m deleted \033[m"
 
-            print(f'Evento {tipo_evento} caminho: {event.src_path} diretorio? {event.is_directory}')
-            with open("eventos.txt", "a") as eventos:
-                eventos.write(f'Evento {event.event_type} caminho: {event.src_path} diretorio? {event.is_directory}')
-                eventos.write('\n')
+        print(f'Evento {tipo_evento} caminho: {event.src_path} diretorio? {event.is_directory}')
+        with open("eventos.txt", "w") as eventos:
+            eventos.write(f'Evento {event.event_type} caminho: {event.src_path} diretorio? {event.is_directory} user: {user}')
+            eventos.write('\n')
 
-            
-            global fim
-            fim = "acabou!"
-            global caminho
-            caminho = event.src_path
-            time.sleep(1)
-            print("\033[34mtérmino da funcao\033[m")
+        
+        global fim
+        fim = "acabou!"
+        global caminho
+        caminho = event.src_path
+        time.sleep(1)
+        print("\033[34mtérmino da funcao\033[m")
 
 def get_m_time(path):
     #path = r'\\capsv\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\arquivo.pdf'
@@ -48,7 +48,7 @@ os.system('cls')if os.name == 'nt' else os.system('clear')
 path = input("Digite o caminho \033[4;33m[pressione enter para uso do caminho padrão]\033[m: ")
 if path == "" and os.name == "nt":
     path = "\\\\CAPSV\\Users\\Public\\RAFAEL\\Epic_Shielder-diretamente-do-lenovo-ideapad"
-    path = "\\\\CAPSV\\Users"
+    #path = "\\\\CAPSV\\Users"
 else:    
     path = "/home/foureyes/.programs/python/sqlite"
 
