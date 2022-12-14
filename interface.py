@@ -1,7 +1,10 @@
 from tkinter import *
 from tkinter import ttk
 
+logado = False
 
+
+    
 root = Tk()
 root.title("Epic Shielder")
 root.geometry('900x600')
@@ -17,7 +20,9 @@ def printInput():
     inp = caixa.get(1.0, "end-1c") 
     inp2 = senha.get(1.0, "end-1c")
     if inp == "clecio" and inp2 == "12345":
-        lbl.config(text = "Olá "+inp) 
+        lbl.config(text = "Olá "+inp)
+        logado = True
+        root.destroy()
 printButton = Button(root, text = "logar", command = printInput)
 printButton.pack() 
 lbl = Label(root, text = "") 

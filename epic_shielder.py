@@ -1,93 +1,110 @@
-#nome = '\\CAPSV\\Users\\Public\\01 - ASPER\\ACA\\12 - 0359-22 - RENAULT-MASTER ACA V20P\\PROCESSO ESCANEADO\\ENVIO ITL VIV'
-###objetivo desse programa é controle de login, para ver qual usuario acessou qual arquivo
-###e quando o usuario acessa algum arquivo o epic_shielder tem que assegurar que fique registrado
-###quem acessou o arquivo e quando foi acessado
-
+import sys
+import time
+import logging
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
 import os
+import subprocess as sp
+import datetime
 
-class userCreator:
-    def __init__(self):
-        with open('UserList.txt', 'a') as usuarios:
-            while True:
-                nome = input("Digite o ID do usuario que você quer criar: ")
-                if len(nome) < 6:
-                    print("O tamanho do ID TEM que ter no minimo 6 caracteres!")
-                else:
-                    break
-            
-            while True:
-                senha = input("Digite a senha para o Usuario que você: ")
-                if len(senha) < 8:
-                    print("O tamanho da senha TEM que ter no minimo 8 caracteres!")
-                else:
-                    break
-            
-            usuarios.write(nome)
-            usuarios.write('\n')
-            usuarios.write(senha)
-            usuarios.write('\n')
-            ###se o ID de usuario ja existir vc nao pode deixar outro usuario com o mesmo ID ser criado!
+user = "Douglas (PROGRAMADOR)"
+fim = None
+class MyHandler(FileSystemEventHandler):
+    def on_any_event(self, event):
+        global tipo_evento
+        
+        #if event.src_path != '\\\\CAPSV\\Users\\Public\\RAFAEL\\Epic_Shielder-diretamente-do-lenovo-ideapad\\eventos.txt':
+        if event.event_type == "modified":
+            tipo_evento = "\033[33m modified \033[m"
+        elif event.event_type == "created":
+            tipo_evento = "\033[32m created \033[m"
+        elif event.event_type == "deleted":
+            tipo_evento = "\033[31m deleted \033[m"
 
-            #print(usuarios.readlines())
+        print(type(event.src_path))
+        event.src_path = "".join(map(chr, event.src_path))
+        print(f'Evento {tipo_evento} caminho: {event.src_path} diretorio? {event.is_directory}')
+        with open("eventos.txt", "a+") as eventos:
+            eventos.write(f'Evento {event.event_type} caminho: {event.src_path} diretorio? {event.is_directory} user: {user}')
+            eventos.write('\n')
 
-class userDelete:
-    def __init__(self):
-        with open('UserList.txt', 'w') as usuarios:
-            usuarios.write('')
+        
+        global fim
+        fim = "acabou!"
+        global caminho
+        caminho = event.src_path
+        time.sleep(1)
+        print("\033[34mtérmino da funcao\033[m")
 
-class viewAllUsers:
-    def __init__(self):
-        with open('UserList.txt', 'r') as usuarios:
-            tst = usuarios.read() 
-            print(type(tst))
-            print(tst)
-   
-            if tst == "" or tst == None:
-                print("Não existem usuarios!")
-            else:   
-                print(tst)
-
-#class Identificacao:
-#    def __init__(self):
-#        usuario = input("Digite o seu ID: ")
-#        senha = int(input("Digite sua senha: "))
-#
-#        if (usuario in usuarios.values()) and (senha in senhas.values(usuarios.keys())):
-#            print("Logado")
-#
-#        else:
-#            print("Login ou Senha INCORRETO!")
-
-class Pasta:
-    def __init__(self):
-        caminho = input("Usuario digite o caminho: ")
-        print(caminho)
+def get_m_time(path):
+    #path = r'\\capsv\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\arquivo.pdf'
+    #print(os.path.getmtime(path))
+    tempo = os.path.getmtime(path)
+    tempo_for_humans = datetime.datetime.fromtimestamp(tempo)
+    print(tempo_for_humans)
 
 
-class Exec:
-    def __init__(self):
-        while True:
-            print("[1] Criar Usuario\n[2] Deleta TODOS os Usuarios\n[3] Ver todos os Usuarios\n[4] Abrir uma pasta")
-            pergunta = input("Digite o numero da ação que vc deseja realizar: ")
-            if pergunta == "1":
-                acao = userCreator()
-                break
-            elif pergunta == "2":
-                acao = userDelete()
-                break
-            elif pergunta == "3":
-                acao = viewAllUsers()
-                break
-            elif pergunta == "4":
-                acao = Pasta()
-            else:
-                print("Você não escolheu um numero de ação valido!\n\n\n")
+os.system('cls')if os.name == 'nt' else os.system('clear')
+
+
+path = input("Digite o caminho \033[4;33m[pressione enter para uso do caminho padrão]\033[m: ")
+if path == "" and os.name == "nt":
+    #path = "\\\\CAPSV\\Users\\Public\\RAFAEL\\Epic_Shielder-diretamente-do-lenovo-ideapad"
+    path = "\\\\CAPSV\\Users"
+else:    
+    path = "/home/foureyes/.programs/python/sqlite"
+
+
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S')
+
+print('Rodando...')
+
+observer = Observer()
+observer.schedule(MyHandler(), path, recursive=True)
+observer.start()
+
+#observer.join()
+
+
+#try:
+while True:
+    #print("aguardando")
+    #time.sleep(1)
+    '''
+    observer = Observer()
+    observer.schedule(MyHandler(), path, recursive=True)
+    observer.start()
+    '''
+    try:
+        #global fim
+        if fim == "acabou!":
+                
+            #observer.stop()
+            #os.system("dir")
+            '''
+            variavel = sp.run(['dir'], shell=True, capture_output=False)
+            variavel = variavel.stdout
+            variavel = "".join(map(chr, variavel))
+            print(variavel)
+            observer.stop()
+            break
+            '''
+            get_m_time(caminho)
+            #observer.stop()
+            #break
+
+    except KeyboardInterrupt:
+        observer.stop()
+        print("interupcao")
+        break
+        
+        #except:
+        #    pass
 
 
 
-executar = Exec()
+observer.join()
 
 
-#pessoa1 = userCreator()
-
-#Pasta()
