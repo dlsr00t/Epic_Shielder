@@ -1,0 +1,289 @@
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\18 - ORÇAMENTO PLAQUETAS DE REBOQUES\ETIQUETAS DO BRASIL diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALFA NAUTICA diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\MR CARROCERIAS\CNPJ MR CARROCERIAS 01-12-22.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\E01951.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\F1D6A8DC.tmp diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\~$OPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\41 - 1111-22 I-FIAT SCUDO UNITRANS M\PROTOTIPO -\3.1 - CB - 9VCVBYHVEPA004104 - I-FIAT SCUDO CARGO TD - PROCESSO - 23-11-22\CB - 9VCVBYHVEPA004104 - I-FIAT SCUDO CARGO TD.pdf diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT 22-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT 23-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT CAP 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.8 LISTA DE MATERIAIS 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.17 ANC. CINTOS BCO. MÉDICO diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\ENVIO ITL INVEC 26-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\ENVIO ITL INVEC 28-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\RECEBIDO INVEC 01 29-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\RECEBIDO INVEC 02 29-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.68 ANC. CINTOS BCO. TRIPLO diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.68 ANC. CINTOS BCO. TRIPLO\ENVIO RODOTESTE 03-11-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\RECEBIDO RONTEC 15-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\RECEBIDO RONTEC 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.1 CHASSI 26-11-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.1 CHASSI 26-11-20 (WHATSAPP) diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.2 EXTERNAS 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.3 PNEU 15-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.3 PNEU 15-10-20\ANTERIORES diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.4 INTERNAS CABINE 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.4 INTERNAS SALÃO 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.5 EXTINTOR 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.6 PLAQUETA 01 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.7 LAYOUT CAP 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.49 ANEXO C diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.49 ANEXO C\ENVIO ITL INVEC 04-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\RECEBIDO RONTEC 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\RECEBIDO RONTEC 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.2 ART-CREA-RJ 0056-1020 VIV DOUGLAS - RONTEC diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.3 GRU-FUNSET - I-M.BENZ 416 RONTEC AMB diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.4 LCVM - I-M.BENZ 416 RONTEC AMB diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA CCT diretorio? True user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\37 - 0805-22   MASTER L1 AMB diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-04 12:17:19.625085
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:06.111577
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:07.376706
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:08.548583
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\37 - 0805-22   MASTER L1 AMB\CONTRATOS E BOLETOS RDT diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-04 12:17:49.805730
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:10.923061
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-13 12:01:40.417118
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.010261
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\29 - 0706-22 - I-PEUGEOT EXPERT PRO JC7 diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-11-18 08:44:14.605469
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\31 - 0814-22 - SPRINTER 416 MISTA 8+1 diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-05 10:36:02.773343
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\LISTA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-11-23 15:13:37.586408
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\~$STA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\~$STA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:52.352356
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\VERIFICAÇÃO DA CONFORMIDADE RONTEC -2022\2.7 PPRA DA EMPRESA diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-10-05 10:36:35.666476
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:54.804907
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:56.070215
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:57.304297
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:58.491248
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\EN REBOQUES\01 - 0820-21 - R-EN REBOQUES CAE 1E\CCT 029.791 - R-EN REBOQUES CAE 1E.pdf diretorio? False user: Douglas (PROGRAMADOR) Hora: 2021-10-13 11:04:07.391795
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:18:00.797101
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:19:04.719585
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\07 - 0901-22 - I-FORD TRANSIT RONTEC AM\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 10:07:24.246842
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:21.092269
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:22.341980
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:23.544786
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:24.716382
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:25.919265
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:27.137731
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:28.371787
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:29.605899
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:30.824366
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:32.058451
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:33.339399
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:22.532507
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:23.766593
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:55.558703
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:55.558703
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:57.089356
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:58.308112
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:59.495334
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:00.760682
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:01.979132
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:03.150729
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:04.369196
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:05.603007
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:06.837087
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:08.055825
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:09.321158
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:30:15.108723
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:30:15.108723
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:17:22.184998
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:17:22.184998
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\hora.py diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:22:58.996271
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\hora.py diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:23:02.417639
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 14:49:14 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 14:49:14 15/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:49:21.38
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\09 - 0830-22 - R-ALPINA CPRBRC 1E\PROCESSO ESCANEADO\ENVIO SENATRAN SEI diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:31:19 07/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\05 - 0118-22 - REBOCÁVEL CARROCERIA ABERTA 2 EIXOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:07:49 14/10/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\09 - 0830-22 - R-ALPINA CPRBRC 1E\PENDÊNCIA DENATRAN\ENC. DE PENDENCIAS - 50000.043260-2022-61 - R-ALPINA CPRBRC 1E.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 11:53:11 15/12/2022
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 15:41:40.70
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:41:42 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\33 - 0905-22 - I-FIAT SCUDO PRO JC7 diretorio? True user: Douglas (PROGRAMADOR) Hora: 11:14:12 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:16:42 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:40:41 30/08/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:46:14 12/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\CONTRATOS E BOLETOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:56:14 16/08/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\CONTRATOS E BOLETOS\CONTRATOS E BOLETOS RDT diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:10:20 03/10/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\DOCUMENTOS ASSINADOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:57:54 09/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\desktop.ini diretorio? False user: Douglas (PROGRAMADOR) Hora: 06:12:42 07/12/2019
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\CHECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 07:13:54 22/01/2016
+Evento created caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\~$ECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\~$ECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\desktop.ini diretorio? False user: Douglas (PROGRAMADOR) Hora: 09:45:45 27/11/2017
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\02 - 0802-22- SPRINTER 417 AMB\CONTRATOS E BOLETOS CAP\BOLETOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:05:43 02/09/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\02 - 0802-22- SPRINTER 417 AMB\PROTOTIPO\RECBIDO UNIVIDAS 18-08-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 08:54:18 19/08/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\1.2 CONTRATO VIV diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:57:24 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\1.4 PLANO DE AUDITORIA CTV diretorio? True user: Douglas (PROGRAMADOR) Hora: 14:29:17 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\INSTRUÇÕES CAP - DESENHO TRANSFORMAÇÃO - AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 08:08:24 13/01/2017
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\09 - 0907-22 SR-SELVA SRS SRPRS3 diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:49:25 13/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL PROPAGANDAS diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:32:46 14/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\064 - 0105-21 - CARROCERIA AMBULANCIA - RENOV. 2021 diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:31:23 09/04/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\064 - 0105-21 - CARROCERIA AMBULANCIA - RENOV. 2021\PROCESSO ESCANEADO diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:31:18 09/04/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ASA TRAILER diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:44:31 09/04/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ASA TRAILER\PROPOSTA RODOTESTE diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:44:31 09/04/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\VERIFICAÇÃO DA CONFORMIDADE - CARRETINHA ALPINA 2021\2.23 CERTIDÃO CREA DE ANOTAÇÕES DO ENGENHEIRO DA EMPRESA diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:35:03 16/09/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\ENVIO 02 01-09-2022 diretorio? True user: Douglas (PROGRAMADOR) Hora: 18:05:32 01/09/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:33:37 01/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:21:32 01/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:20:38 01/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.B) Declaraçao de propriedade diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:46:54 25/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.A) Equipamentos e instrimentos de mediçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 14:40:15 17/10/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.A) Equipamentos e instrimentos de mediçao\PLANILHA DE EQUIPAMENTOS E INSTRUMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:42:42 25/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.D) Planilha de controle de calibraçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:42:05 25/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:48:02 25/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 11:24:56 26/10/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22\03 - DOCUMENTOS REFERENTES AOS EQUIPAMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:03:31 26/10/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22\03 - DOCUMENTOS REFERENTES AOS EQUIPAMENTOS\Planilha de controle de calibraçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:18:53 25/11/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\ENVIO 09 12-12-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 16:04:20 15/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\1.1 ANEXOS DO PROTÓTIPO - I-FIAT SCUDO UNIVIDA AMB.pdf diretorio? False user: Douglas (PROGRAMADOR) Hora: 16:04:34 15/12/2022
