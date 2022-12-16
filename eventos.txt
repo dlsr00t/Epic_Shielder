@@ -1,289 +1,480 @@
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\18 - ORÇAMENTO PLAQUETAS DE REBOQUES\ETIQUETAS DO BRASIL diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALFA NAUTICA diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\MR CARROCERIAS\CNPJ MR CARROCERIAS 01-12-22.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\3B26FA90.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
-Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\E01951.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\EDDB3887.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\F1D6A8DC.tmp diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\~$OPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.docx diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\FREITAS E EVAGELISTAS LTDA\02 - 1217-22 - REBOQUE ABERTO 2 EIXOS PBT 1500KG\CONTRATOS E BOLETOS CAP\PROPOSTA 1217-22  CA PERÍCIAS - FREITAS EVAGENLISTA LTDA.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\41 - 1111-22 I-FIAT SCUDO UNITRANS M\PROTOTIPO -\3.1 - CB - 9VCVBYHVEPA004104 - I-FIAT SCUDO CARGO TD - PROCESSO - 23-11-22\CB - 9VCVBYHVEPA004104 - I-FIAT SCUDO CARGO TD.pdf diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT 22-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT 23-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.7 LAYOUT CAP 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.8 LISTA DE MATERIAIS 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.17 ANC. CINTOS BCO. MÉDICO diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\ENVIO ITL INVEC 26-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\ENVIO ITL INVEC 28-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\RECEBIDO INVEC 01 29-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.49 ANEXO C\RECEBIDO INVEC 02 29-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.68 ANC. CINTOS BCO. TRIPLO diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\3.68 ANC. CINTOS BCO. TRIPLO\ENVIO RODOTESTE 03-11-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\RECEBIDO RONTEC 15-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 01 8AC907645ME189027\RECEBIDO RONTEC 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.1 CHASSI 26-11-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.1 CHASSI 26-11-20 (WHATSAPP) diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.2 EXTERNAS 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.3 PNEU 15-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.3 PNEU 15-10-20\ANTERIORES diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.4 INTERNAS CABINE 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.4 INTERNAS SALÃO 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.5 EXTINTOR 16-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.6 PLAQUETA 01 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.7 LAYOUT CAP 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.49 ANEXO C diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\3.49 ANEXO C\ENVIO ITL INVEC 04-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\PROTOTIPO 02 8AC907645ME193885 - PENDENCIA\RECEBIDO RONTEC 03-12-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\RECEBIDO RONTEC 27-10-20 diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.2 ART-CREA-RJ 0056-1020 VIV DOUGLAS - RONTEC diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.3 GRU-FUNSET - I-M.BENZ 416 RONTEC AMB diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA 4.4 LCVM - I-M.BENZ 416 RONTEC AMB diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\06 -1008-20 - I-M.BENZ 416 RONTEC AMB\TAXA CCT diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\37 - 0805-22   MASTER L1 AMB diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-04 12:17:19.625085
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:06.111577
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:07.376706
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:08.548583
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNITRANS\37 - 0805-22   MASTER L1 AMB\CONTRATOS E BOLETOS RDT diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-04 12:17:49.805730
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:10:10.923061
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-13 12:01:40.417118
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.010261
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\29 - 0706-22 - I-PEUGEOT EXPERT PRO JC7 diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-11-18 08:44:14.605469
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\31 - 0814-22 - SPRINTER 416 MISTA 8+1 diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-08-05 10:36:02.773343
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\LISTA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-11-23 15:13:37.586408
-Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\~$STA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\35 - 1122-22 - FIAT-TORO PROCOPIO FUNER\~$STA DOC. FIAT-TORO PROCOPIO FUNER.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:44.166774
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:52.352356
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\VERIFICAÇÃO DA CONFORMIDADE RONTEC -2022\2.7 PPRA DA EMPRESA diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-10-05 10:36:35.666476
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:54.804907
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:56.070215
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:57.304297
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:11:58.491248
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\EN REBOQUES\01 - 0820-21 - R-EN REBOQUES CAE 1E\CCT 029.791 - R-EN REBOQUES CAE 1E.pdf diretorio? False user: Douglas (PROGRAMADOR) Hora: 2021-10-13 11:04:07.391795
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:18:00.797101
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:19:04.719585
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\07 - 0901-22 - I-FORD TRANSIT RONTEC AM\CONTRATOS E BOLETOS CAP diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 10:07:24.246842
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:21.092269
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:22.341980
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:23.544786
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:24.716382
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:25.919265
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:27.137731
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:28.371787
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:29.605899
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:30.824366
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:32.058451
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:20:33.339399
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:18.564422
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:22.532507
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:22:23.766593
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:55.558703
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:55.558703
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:57.089356
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:58.308112
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:24:59.495334
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:00.760682
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:01.979132
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:03.150729
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:04.369196
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:05.603007
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:06.837087
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:08.055825
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:25:09.321158
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:30:15.108723
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 11:30:15.108723
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:17:22.184998
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:17:22.184998
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\hora.py diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:22:58.996271
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\hora.py diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:23:02.417639
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 14:49:14 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 14:49:14 15/12/2022
-Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 14:49:21.38
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\09 - 0830-22 - R-ALPINA CPRBRC 1E\PROCESSO ESCANEADO\ENVIO SENATRAN SEI diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:31:19 07/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\05 - 0118-22 - REBOCÁVEL CARROCERIA ABERTA 2 EIXOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:07:49 14/10/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\09 - 0830-22 - R-ALPINA CPRBRC 1E\PENDÊNCIA DENATRAN\ENC. DE PENDENCIAS - 50000.043260-2022-61 - R-ALPINA CPRBRC 1E.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 11:53:11 15/12/2022
-Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:41:26 15/12/2022
-Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx diretorio? False user: Douglas (PROGRAMADOR) Hora: 2022-12-15 15:41:40.70
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:41:42 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PROCÓPIO\33 - 0905-22 - I-FIAT SCUDO PRO JC7 diretorio? True user: Douglas (PROGRAMADOR) Hora: 11:14:12 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:16:42 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:40:41 30/08/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:46:14 12/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\CONTRATOS E BOLETOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:56:14 16/08/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\CONTRATOS E BOLETOS\CONTRATOS E BOLETOS RDT diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:10:20 03/10/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\DOCUMENTOS ASSINADOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:57:54 09/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\desktop.ini diretorio? False user: Douglas (PROGRAMADOR) Hora: 06:12:42 07/12/2019
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\CHECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 07:13:54 22/01/2016
-Evento created caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\~$ECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\~$ECK LIST CAP DENATRAN - TRANSFORMAÇÃO AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 15:54:35 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\desktop.ini diretorio? False user: Douglas (PROGRAMADOR) Hora: 09:45:45 27/11/2017
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\02 - 0802-22- SPRINTER 417 AMB\CONTRATOS E BOLETOS CAP\BOLETOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:05:43 02/09/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\02 - 0802-22- SPRINTER 417 AMB\PROTOTIPO\RECBIDO UNIVIDAS 18-08-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 08:54:18 19/08/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\1.2 CONTRATO VIV diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:57:24 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\1.4 PLANO DE AUDITORIA CTV diretorio? True user: Douglas (PROGRAMADOR) Hora: 14:29:17 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\05 - CONTROLE DE PROCESSOS\2 - PROCEDIMENTOS CAP - MONTAGEM DE PROCESSOS\TRANSFORMAÇÃO - AMBULÂNCIA\INSTRUÇÕES CAP - DESENHO TRANSFORMAÇÃO - AMB.docx diretorio? False user: Douglas (PROGRAMADOR) Hora: 08:08:24 13/01/2017
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\SELVA EQUIPAMENTOS\09 - 0907-22 SR-SELVA SRS SRPRS3 diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:49:25 13/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL PROPAGANDAS diretorio? True user: Douglas (PROGRAMADOR) Hora: 17:32:46 14/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\064 - 0105-21 - CARROCERIA AMBULANCIA - RENOV. 2021 diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:31:23 09/04/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\064 - 0105-21 - CARROCERIA AMBULANCIA - RENOV. 2021\PROCESSO ESCANEADO diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:31:18 09/04/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ASA TRAILER diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:44:31 09/04/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ASA TRAILER\PROPOSTA RODOTESTE diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:44:31 09/04/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\CARRETINHA ALPINA\VERIFICAÇÃO DA CONFORMIDADE - CARRETINHA ALPINA 2021\2.23 CERTIDÃO CREA DE ANOTAÇÕES DO ENGENHEIRO DA EMPRESA diretorio? True user: Douglas (PROGRAMADOR) Hora: 09:35:03 16/09/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\ENVIO 02 01-09-2022 diretorio? True user: Douglas (PROGRAMADOR) Hora: 18:05:32 01/09/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:33:37 01/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:21:32 01/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c diretorio? True user: Douglas (PROGRAMADOR) Hora: 10:20:38 01/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.B) Declaraçao de propriedade diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:46:54 25/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.A) Equipamentos e instrimentos de mediçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 14:40:15 17/10/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.A) Equipamentos e instrimentos de mediçao\PLANILHA DE EQUIPAMENTOS E INSTRUMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:42:42 25/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\CM RETESTE\Anexo c\C.3.D) Planilha de controle de calibraçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:42:05 25/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:48:02 25/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 11:24:56 26/10/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22\03 - DOCUMENTOS REFERENTES AOS EQUIPAMENTOS diretorio? True user: Douglas (PROGRAMADOR) Hora: 12:03:31 26/10/2022
-Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS\ENVIO ORQUESTRA\01 - 26-10-22\03 - DOCUMENTOS REFERENTES AOS EQUIPAMENTOS\Planilha de controle de calibraçao diretorio? True user: Douglas (PROGRAMADOR) Hora: 15:18:53 25/11/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\ENVIO 09 12-12-22 diretorio? True user: Douglas (PROGRAMADOR) Hora: 16:04:20 15/12/2022
-Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\UNIVIDAS BH\01 - 0801-22-  I-FIAT SCUDO UNIVIDA AMB\1.1 ANEXOS DO PROTÓTIPO - I-FIAT SCUDO UNIVIDA AMB.pdf diretorio? False user: Douglas (PROGRAMADOR) Hora: 16:04:34 15/12/2022
+rdfgdEvento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: False user: Douglas (PROGRAMADOR) Hora: 08:39:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: False user: Douglas (PROGRAMADOR) Hora: 08:39:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\Thumbs.db tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\VIV tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\WD Safepoints tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\WELLERSON tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:23 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\A9929D1E.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:39 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\A9929D1E.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\A9929D1E.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:42 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\LISTA DOC. INTER SEA CARROCERIA ABERTA - PARA EMPRESA.docx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:44 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\A9929D1E.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\LISTA DOC. INTER SEA CARROCERIA ABERTA - PARA EMPRESA.docx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\5EF9EE87.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:49 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\5EF9EE87.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\LISTA DOC. INTER SEA CARROCERIA ABERTA - PARA EMPRESA.docx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\17 - ORÇAMENTOS CONCORRENTES tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:54 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA\~$STA DOC. INTER SEA CARROCERIA ABERTA - PARA EMPRESA.docx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:41:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\INTER SEA\01 - 0903 - 22 - CARROCERIA ABERTA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:41:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\PICK UP & CIA tipo: True user: Douglas (PROGRAMADOR) Hora: 08:42:08 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$teste.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:43:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad tipo: True user: Douglas (PROGRAMADOR) Hora: 08:43:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$teste.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:43:43 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$teste.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 08:43:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad tipo: True user: Douglas (PROGRAMADOR) Hora: 08:43:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL PROPAGANDAS tipo: True user: Douglas (PROGRAMADOR) Hora: 09:54:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Git-2.38.1-64-bit.exe tipo: False user: Douglas (PROGRAMADOR) Hora: 09:54:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL tipo: True user: Douglas (PROGRAMADOR) Hora: 09:54:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:56:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\file___cap-2_Public_01%20-%20ASPER_ALPHA6_02%20-%201123-19%20-%.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 09:56:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\ENEM REDAÇAO DADO PEDAGOGICO.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 09:56:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:03 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\EE197613.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\EE197613.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:05 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:06 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\EE197613.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\EE197613.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:09 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\PLANILHA CA PERÍCIAS 2022.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:11 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\EE197613.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:12 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\PLANILHA CA PERÍCIAS 2022.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\C43190F8.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:16 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\C43190F8.tmp tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:17 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022\~$PLANILHA CA PERÍCIAS 2022.xlsx tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\1 - CA PERÍCIAS\3 - FINANCEIRO\02 PLANILHAS FINANCEIRO\2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\Thumbs.db tipo: False user: Douglas (PROGRAMADOR) Hora: 09:57:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\c-api tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\data tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\distributing tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\distutils tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\extending tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\faq tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:31 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\howto tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\includes tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:34 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\includes\sqlite3 tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\install tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\installing tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:37 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\library tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\reference tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\extensions tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\pydoctheme tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\pydoctheme\static tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\static tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tools\templates tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\tutorial tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\using tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Doc\whatsnew tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Grammar tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Include tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Include\internal tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Lib tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Lib\asyncio tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Python-3.7.14\Lib\collections tipo: True user: Douglas (PROGRAMADOR) Hora: 09:57:58 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\05 - MODELOS DE DOCUMENTOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:00:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\ENEM tipo: True user: Douglas (PROGRAMADOR) Hora: 10:00:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Downloads tipo: True user: Douglas (PROGRAMADOR) Hora: 10:00:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\PROCESSO ESCANEADO INSPEÇÃO I-FORD TRANSIT MART M.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 10:00:59 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\04 - LISTA DE CONTROLE CCT - IBAMA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:01:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\04 - LISTA DE CONTROLE CCT - IBAMA\ARQUIVO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:01:01 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\LISTA MATERIAIS HIAGO CARVALHO.jfif tipo: False user: Douglas (PROGRAMADOR) Hora: 10:01:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\LISTA MATERIAIS HIAGO.jfif tipo: False user: Douglas (PROGRAMADOR) Hora: 10:01:31 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Thumbs.db tipo: False user: Douglas (PROGRAMADOR) Hora: 10:01:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Thumbs.db tipo: False user: Douglas (PROGRAMADOR) Hora: 10:01:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Thumbs.db tipo: False user: Douglas (PROGRAMADOR) Hora: 10:02:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:02:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC tipo: True user: Douglas (PROGRAMADOR) Hora: 10:02:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\QSA RONTEC 15.12.22.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 10:02:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio tipo: True user: Douglas (PROGRAMADOR) Hora: 10:02:57 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\debug.log tipo: False user: Douglas (PROGRAMADOR) Hora: 10:03:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\CHECK LIST CAP - 1º PROCESSO VIV-INSPEÇÃO - RONTEC.docx tipo: False user: Douglas (PROGRAMADOR) Hora: 10:03:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\PROTOTIPO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:03:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\debug.log tipo: False user: Douglas (PROGRAMADOR) Hora: 10:03:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\CNPJ RONTEC 15.12.22.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 10:03:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\03_files tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\AMAZE 3 ANO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\AMAZE 3 ANO\PRINTS AMAZE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\AMAZE 3 ANO\PRINTS AMAZE\PRINTS PAGAMENTOS AMAZE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\AMAZE 3 ANO\PRINTS AMAZE\PRINTS SERVIÇOS GARANTIDOS AMAZE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\Programação - Rafael Douglas tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL\TIA CELY ALUNOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\iconengines tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\imageformats tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:51 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\platforms tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\plugins tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\printsupport tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\styles tipo: True user: Douglas (PROGRAMADOR) Hora: 10:04:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\PROTOTIPO\3.8.2 LISTA DE MATERIAIS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:06:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\SQLiteStudio\libcrypto-1_1-x64.dll tipo: False user: Douglas (PROGRAMADOR) Hora: 10:07:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:08:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\gerarPDF.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 10:08:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:08:58 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\01 PROPOSTAS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:08:59 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\DOCUMENTOS DA EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:01 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:02 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\1104-17 - CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:03 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\ENVIO 01 - 11-12-17 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:05 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\ENVIO 02 - 26-04-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:06 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\ENVIO 03 - 08-10-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:07 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\ENVIO 04 - 16-10-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\PROTÓTIPO - tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\1104-17 - CONTRATOS E BOLETOS\1104-17 NOTAS FISCAIS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\1104-17 - CONTRATOS E BOLETOS\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:12 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\001 - 1104-17 - SRM-TERRODA CFE 1E\PROTÓTIPO -\ANEXO C tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\1.9 - PROCURAÇÃO EMPRESA - CLECIO AVILA - NC tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.1 CONTRATO SOCIAL - EMPRESA - NC tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.10 - LAYOUT DA EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.11 - FOTOS DA EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.12 - ORGANOGRAMA DA EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.13 - LISTA DE EQUIPAMENTOS - NC tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.14 - CURRÍCULO R.T tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.15 - REGISTRO DE FORMAÇÃO R.T tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.16 - COMPROV. VINCULO R.T tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.17 - ART-CREA-SP R.T tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\VERIFICAÇÃO DA EMPRESA\2.18 - CERTIDÃO CREA-SP R.T tipo: True user: Douglas (PROGRAMADOR) Hora: 10:09:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:10:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BKP E-MAIL DOUGLAS - 08-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:10:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:10:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S tipo: True user: Douglas (PROGRAMADOR) Hora: 10:10:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CLECIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\18 - PERÍCIAS TÉCNICAS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\DOCUMENTOS  FINANCIAMENTO - RODOTESTE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CLECIO\CRLV PALIO KWT-9449 E STRADA LMM-8616.pdf tipo: False user: Douglas (PROGRAMADOR) Hora: 10:11:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\CADASTRAMENTO DE ROTULAGEM tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\CADASTRAMENTO DE ROTULAGEM\CADASTRAMENTO ROTULAGEM DE ETIQUEDA MAIA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\Documentos C.A tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\FUSCA CONVERSÍVEL tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:51 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\HALAN tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\HALAN\PROCESSO TRUCK BRASIL tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\INSPEÇÃO DE MOTOR CASA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\INSPEÇÃO DE MOTOR CASA\CONSULTA 30-01-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\00 VEÍCULOS\PAPEL TIMBRADO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:57 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\01 - 01-2010-VC - CABINE SUPLEMENTAR\FOTOS-LAYOUT tipo: True user: Douglas (PROGRAMADOR) Hora: 10:11:58 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\01 - 01-2010-VC - CABINE SUPLEMENTAR\RENOVAÇÃO 2012 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\01 - 01-2010-VC - CABINE SUPLEMENTAR\RENOVAÇÃO 2012\Comprovantes tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:01 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\01 - 01-2010-VC - CABINE SUPLEMENTAR\RENOVAÇÃO 2012\para envio 1 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:02 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\1902-14 - CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:03 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\1902-14 - CONTRATOS E BOLETOS\1902-14 - NOTA FISCAL E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\1902-14 - CONTRATOS E BOLETOS\1902-14 - NOTA FISCAL E BOLETOS\NOTA FISCAL E BOLETO VISTO CAR tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:05 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:07 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\ENVIO\ENVIO 01 - 02-04-14 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\02 - 1902-14 - CABINE SUPLEMENTAR RENOV. 2014\FOTOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - CONTRATOS E BOLETOS\0414-15 NOTA FISCAL E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - CONTRATOS E BOLETOS\0414-15 NOTA FISCAL E BOLETOS\0048-2015 NF E BOLETO VCI tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO\01 ENVIO 16-04-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO\02 ENVIO 28-05-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO\03 ENVIO 19-06-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO\04 ENVIO 27-07-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\0414-15 - ENVIO\05 ENVIO 29-07-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO\DESENHO CAP tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO\FOTOS 01 - 15-06-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO\FOTOS 02 - 17-06-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO\FOTOS 03 - 24-06-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\FOTOS E DESENHO\FOTOS 03 - 24-06-15\lanternagem tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:27 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PENDÊNCIA DENATRAN tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PENDÊNCIA DENATRAN\ENVIO 01 - 29-07-15 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PENDÊNCIA DENATRAN\ENVIO 02  - 03-08-15 - VIA CORREIOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PROCESSO ESCANEADO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PROCESSO ESCANEADO\ENVIO DENATRAN tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\PROCESSO ESCANEADO\ENVIO VCI tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:34 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\03 - 0414-15 - C. ABERTA-INTERCAMBIÁVEL-CAB. SUPLEMENTAR\RELATÓRIO PARA-CHOQUE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\0429-16 CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:37 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\0429-16 CONTRATOS E BOLETOS\0047-2016 NOTA FISCAL E BOLETO VCI tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\0429-16 CONTRATOS E BOLETOS\0429-16 NOTA FISCAL E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:39 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\ENVIO\01 ENVIO 28-04-16 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\ENVIO\02 ENVIO 02-05-16 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\ENVIO\03 ENVIO ITL 10-05-16 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\FOTOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:45 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\04 - 0429-16 - C. ABERTA-CAB. SUPLEMENTAR - RENOV.2016\PROCESSO SCANEADO VCI tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\1021-17 CONTRATOS E BOLETOS\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\1021-17 CONTRATOS E BOLETOS\NOTA FISCAL E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\1021-17 CONTRATOS E BOLETOS\TAXA CCT tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\ENVIO EMPRESA\27 ENVIO 10-08-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:51 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROCESSO ESCANEADO\ENVIO CTV tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROCESSO ESCANEADO\ENVIO DENATRAN - SEI tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\01 ENVIADO PELO GRUPO NIVEL - 07-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\02 ENVIADO PELO GRUPO NIVEL - 28-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:57 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\03 ENVIADO PELO GRUPO NIVEL - 06-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:58 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\04 ENVIADO PELO GRUPO NIVEL - 07-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:12:59 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\ENVIO 01 ITL NIVEL 30-04-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\ANEXO C\ENVIO 02 ITL NIVEL 29-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:02 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\FOTOS 20-04-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:03 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\FOTOS 30-04-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\FOTOS 30-04-18\CABINE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:05 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\FOTOS 30-04-18\EXTERNAS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:06 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\FOTOS 30-04-18\INTERNAS CAB SUP tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:07 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\LAYOUT CAP - 07-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\PROTÓTIPO 9BWA952P18R813264\LAYOUT CAP - 18-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\TAXA 4.2 ART-CREA CTV ABS CABINES  - C. INACABADA-CAB. SUPLEMENTAR tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\05 - 1021-17 - C. INACABADA-CAB. SUPLEMENTAR\TAXA 4.2 ART-CREA CTV ABS CABINES  - C. INACABADA-CAB. SUPLEMENTAR\CANCELADO THIAGO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:12 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\0503-18 - CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\0503-18 - CONTRATOS E BOLETOS\BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\0503-18 - CONTRATOS E BOLETOS\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\0503-18 - CONTRATOS E BOLETOS\TAXA DE EMISSÃO DE CCT tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIADO PELA ABS CABINES - 07-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO CTV 08-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\01 ENVIO 04-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\02 ENVIO 15-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\03 ENVIO 17-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\04 ENVIO 05-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\05 ENVIO 07-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\06 ENVIO 08-06-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\ENVIO EMPRESA\07 ENVIO 11-07-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\MODELO DE PLAQUETA NIEV tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROCESSO ESCANEADO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:31 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROCESSO ESCANEADO\ENVIO CTV 01 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\ANEXO C tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\ANEXO C\ENVIADO PELA NIVEL DIA 28-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\ANEXO C\ENVIO ITL NIVEL - 23-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:37 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\ANEXO C\ENVIO ITL NIVEL - 25-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\DESENHO CAP - 25-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\FOTOS EXTERNAS 17-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\PROTOTIPO MG59+1364,7J00001\PARA CHOQUE - 09-05-18 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\06 - 0503-18 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2018\TAXA 4.2 ART-CREA CTV ABS CABINES  - C. ABERTA-CAB. SUPLEMENTAR tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\0409-20 CONTRATOS E BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:45 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\0409-20 CONTRATOS E BOLETOS\BOLETOS tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\0409-20 CONTRATOS E BOLETOS\ENVIO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO CCT tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 01 27-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:51 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 02 28-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 03 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 04 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 05 04-05-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 06 20-05-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:57 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 07 21-05-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:13:58 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 08 28-05-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 09 01-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:01 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 10 10-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:02 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 11 15-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:03 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 12 16-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 13 17-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:06 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 14 18-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:07 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 15 18-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 16 19-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 17 22-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 18 08-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 19 14-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 20 16-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\ENVIO EMPRESA - ABS CABINES\ENVIO 21 20-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\MODELO DE PLAQUETA NIEV tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROCESSO ESCANEADO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROCESSO ESCANEADO\ENVIO VIV tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 01 MG59+1364,4L00016 - CANCELADO tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 01 MG59+1364,4L00016 - CANCELADO\ANEXO C tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 01 MG59+1364,4L00016 - CANCELADO\ANEXO C\ENVIO ITL NIVEL 19-03-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 01 MG59+1364,4L00016 - CANCELADO\ANEXO C\RECEBIDO NIVEL 23-03-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 01 MG59+1364,4L00016 - CANCELADO\EXTERNAS 23-03-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.1 CHASSI 27-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:27 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.2 EXTERNAS 01 28-02-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.2 EXTERNAS 02 29-02-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.2 EXTERNAS 03 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.3 PLAQUETA 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.5 DSENHO CAP 01 02-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.5 DSENHO CAP 02 30-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:34 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.5 DSENHO CAP 03 16-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.5 DSENHO CAP 04 17-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.16 INTERNAS 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:39 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\ENVIO ITL NIVEL 19-03-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\ENVIO ITL NIVEL 28-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO ABS 20-05-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO NIVEL 28-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO NIVEL 28-04-20\Fotos Caminhão tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:45 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO NIVEL 29-04-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO NIVEL 29-04-20\PROTOTIPO ABS CABINE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\PROTOTIPO 02 MG59+1368,7L00017\3.17 ANEXO C\RECEBIDO NIVEL 29-04-20\PROTOTIPO ABS CABINE\PROTOTIPO ABS CABINE tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\RECEBIDO ABS CABINES 18-06-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\RECEBIDO CORREIOS 13-07-20 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ABS CABINES - UBERLÂNDIA\07 - 0409-20 - C. ABERTA-CAB. SUPLEMENTAR - RENOV. 2020\TAXA 4.2 ART-CREA-RJ 0022-0420 VIV DOUGLAS - ABS CABINES tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BKP E-MAIL DOUGLAS - 08-06-18\2012 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BKP E-MAIL DOUGLAS - 08-06-18\2012\01 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:54 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S\1996 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\BKP E-MAIL DOUGLAS - 08-06-18\2012\03 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:56 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S\2000 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:57 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S\2001 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:14:59 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S\2002 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:15:00 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\CATALOGO DE CAT'S\2003 tipo: True user: Douglas (PROGRAMADOR) Hora: 10:15:01 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Douglas - Programas tipo: True user: Douglas (PROGRAMADOR) Hora: 10:18:55 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\COMPRAS RAFAEL tipo: True user: Douglas (PROGRAMADOR) Hora: 10:20:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Downloads tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:19:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Git-2.38.1-64-bit.exe tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:19:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\3.2 - INDICAÇÃO PARA FORNECIMENTO DAS FOTOS.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:28:07 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\3.4 MODELO DE FOTOS INTERNAS AMBULÂNCIA.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:28:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:29:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:29:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:29:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\RAFAEL TRABALHO - BOLETOS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:31:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:31:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROTA RODAR tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:31:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:08 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0305-21 CONTRATOS E BOLETOS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:09 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0305-21 CONTRATOS E BOLETOS\ENVIO tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:10 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0305-21 CONTRATOS E BOLETOS\NOTA FISCAL E BOLETOS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0305-21 CONTRATOS E BOLETOS\PROPOSTAS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:13 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0503.00 CONTRATOS E BOLETOS RDT tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0503.00 CONTRATOS E BOLETOS RDT\ENVIO tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\0503.00 CONTRATOS E BOLETOS RDT\NOTA FISCAL E BOLETOS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:16 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\DOCUMENTOS ASSINADOS tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\DOCUMENTOS ASSINADOS\RECEBIDO POR E-MAIL DIA 01 - 23-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:18 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\DOCUMENTOS ASSINADOS\RECEBIDO POR E-MAIL DIA 02 - 24-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:20 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 01 26-03-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 02 05-04-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 03 14-04-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 04 27-04-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:24 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 05 05-05-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 06 13-05-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:27 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 07 19-05-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:28 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 08 25-05-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 09 26-05-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 10 04-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 11 04-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 12 11-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:34 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 13 14-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 14 15-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 15 17-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 16 24-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:39 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 17 28-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:32:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 18 29-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 19 30-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:33 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 20 08-07-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:34 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO 21 21-07-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\ENVIO CAT E CCT 01 01-09-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PENDENCIA DENATRAN tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PENDENCIA DENATRAN\ENVIO DENATRAN SEI 16.08.21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:39 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:40 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO\CONFERENCIA DENATRAN tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO\ENVIO DENATRAN SEI 01 29-07-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:42 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO\ENVIO DENATRAN SEI 02 29-07-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO\ENVIO DENATRAN SEI 03 16-08-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:45 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROCESSO ESCANEADO\ENVIO VIV tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:46 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROTÓTIPO - 8AC907645LE182895 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROTÓTIPO - 8AC907645LE182895\3.1 - CHASSI tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:48 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROTÓTIPO - 8AC907645LE182895\3.2 - FOTOS EXTERNAS 01 04-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ACA\01 - 0305-21 - I-M.BENZ 416 ACA M\PROTÓTIPO - 8AC907645LE182895\3.4 - FOTOS INTERNAS 01 04-06-21 tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:38:50 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.xlsx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:40:23 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:40:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:40:26 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:40:27 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\~$eventos.xlsx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:42:23 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:42:23 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\~$OPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:04 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\~$OPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:05 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:06 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:19 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:29 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:31 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:32 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:33 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\CA69CC26.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:35 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\CA69CC26.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:36 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:37 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\CA69CC26.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:38 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\CA69CC26.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:40 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:41 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:42 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\CA69CC26.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:43 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:44 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:46 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\5E6C81EF.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:47 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:48 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\~$OPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:49 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:51 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\~$OPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:52 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\~$OPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:43:53 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:43:55 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:09 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:11 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:11 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:12 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:13 16/12/2022
+Evento created caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\5B4A9B9D.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:14 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\5B4A9B9D.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:15 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:17 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\5B4A9B9D.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:18 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:19 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:20 16/12/2022
+Evento moved caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\5B4A9B9D.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:21 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:22 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:24 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\8F1F74FA.tmp tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:25 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:26 16/12/2022
+Evento deleted caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\~$OPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:27 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP tipo: pasta user: Douglas (PROGRAMADOR) Hora: 14:44:27 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\08 - 1219-22 - FIAT SCUDO PASSAGEIRO\CONTRATOS E BOLETOS CAP\PROPOSTA 1219-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:29 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\RONTEC\08 - 1215-22 - I-M.BENZ 416 RONTEC AMB - RENOV.2022\LISTA DOC. RONTEC -  I-M.BENZ 416 RONTEC AMB.docx tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:30 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\01 - ASPER\ROCHA MOTORS\07 - 1208-22 FIAT SCUDO AMB\CONTRATOS E BOLETOS CAP\PROPOSTA 1208-22   CA PERÍCIAS - ROCHA TRANSFORMAÇÕES VALOR FINAL.pdf tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:31 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\excel.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:37 16/12/2022
+Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\excel.py tipo: arquivo user: Douglas (PROGRAMADOR) Hora: 14:44:38 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\COMPRAS RAFAEL | Tipo: pasta | Evento: [33m modified [m | Horario: 15:15 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\079 - 0913-22 - I-JAC IEV750V ALLT AMB\PENDENCIA SENATRAN\RT2009.00.0044.03.154SI_assinado.pdf | Tipo: arquivo | Evento: [32m created [m | Horario: 15:18 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads | Tipo: pasta | Evento: [33m modified [m | Horario: 15:20 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\3.7 MODELO DE DESENHO 2022 - TRANSFORMAÇÃO AMB.pdf | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:21 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\9eb7ee68-6df3-406e-adca-ce1aea5b42cc751584229999721587.ppt | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:21 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\9eb7ee68-6df3-406e-adca-ce1aea5b42cc751584229999721587 (1).ppt | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:21 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\01 - ASPER\ALLTECH\079 - 0913-22 - I-JAC IEV750V ALLT AMB\PENDENCIA SENATRAN\RT2009.00.0044.03.154SI_assinado.pdf | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:22 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\06 - FINANCEIRO | Tipo: pasta | Evento: [33m modified [m | Horario: 15:35 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\7 - ACIVA | Tipo: pasta | Evento: [33m modified [m | Horario: 15:35 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\06 - FINANCEIRO\7 - ACIVA | Tipo: pasta | Evento: [33m modified [m | Horario: 15:39 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\03 - NORMAS E PROCEDIMENTOS | Tipo: pasta | Evento: [33m modified [m | Horario: 15:41 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:41 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:41 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:41 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:42 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\Thumbs.db | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:44 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Downloads\Thumbs.db | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:44 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\FESTAS\FIM DE ANO 2021 | Tipo: pasta | Evento: [33m modified [m | Horario: 15:45 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\CERTIDÕES 2019 | Tipo: pasta | Evento: [33m modified [m | Horario: 15:47 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\04 - NOVA IMPLEMENTOS | Tipo: pasta | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\teste.xlsx | Tipo: arquivo | Evento: [33m modified [m | Horario: 15:57 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\04 - NOVA IMPLEMENTOS\06 - PROJETOS | Tipo: pasta | Evento: [33m modified [m | Horario: 16:01 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\04 - NOVA IMPLEMENTOS\03 - DOCUMENTOS DOS SÓCIOS | Tipo: pasta | Evento: [33m modified [m | Horario: 16:02 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\07 - PROPAGANDAS RODOTESTE E CA PERÍCIAS | Tipo: pasta | Evento: [33m modified [m | Horario: 16:02 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\08 - CADASTRO SEI-DENATRAN - CLECIO AVILA | Tipo: pasta | Evento: [33m modified [m | Horario: 16:02 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\BKP E-MAIL DOUGLAS - 08-06-18 | Tipo: pasta | Evento: [33m modified [m | Horario: 16:04 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\21 - CM EMPREENDIMENTOS | Tipo: pasta | Evento: [33m modified [m | Horario: 16:07 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS | Tipo: pasta | Evento: [33m modified [m | Horario: 16:07 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS\1 PRINCIPAL | Tipo: pasta | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS\2 TRANSFORMAÇÃO | Tipo: pasta | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS\3 ENCARROÇAMENTO | Tipo: pasta | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS\4 FABRICAÇÃO | Tipo: pasta | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\20 - NOVO SITE CA PERÍCIAS\5 IMPORTAÇÃO | Tipo: pasta | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py | Tipo: arquivo | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py | Tipo: arquivo | Evento: [33m modified [m | Horario: 16:10 16/12/2022
+Usuário: X | Caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\epic_shielder.py | Tipo: arquivo | Evento: [33m modified [m | Horario: 16:11 16/12/2022

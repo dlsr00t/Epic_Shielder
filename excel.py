@@ -11,17 +11,19 @@ def createNewExcelFile(nome_do_novo_arquivo):
         #worksheet.set_column('A:A', 254.86)
         worksheet.set_column("A:A", 30)
         worksheet.set_column("B:B", 160)
-        worksheet.set_column("C:C", 15)
+        worksheet.set_column("C:C", 19)
+        worksheet.set_column("D:D", 16)
+        worksheet.set_column("E:E", 26)
         # Add a bold format to use to highlight cells.
         bold = workbook.add_format({'bold': True})
 
         # Write some simple text.
-        worksheet.write('A1', 'user: Douglas (PROGRAMADOR)')
-        #worksheet.write('A2', 'user: Douglas (PROGRAMADOR)')
+        ##worksheet.write('A1', 'user: Douglas (PROGRAMADOR)')
+        ##worksheet.write('A2', 'user: Douglas (PROGRAMADOR)')
 
         # Text with formatting.
-        worksheet.write('B1', 'Evento modified caminho: \\\\CAPSV\\Users\\Public\\01 - ASPER\\PROC�PIO\\RELAT�RIOS PROCOPIO\\REL. ANC. DOS CINTOS', bold)
-        worksheet.write('C1', 'diretorio? True')
+        ##worksheet.write('B1', 'Evento modified caminho: \\\\CAPSV\\Users\\Public\\01 - ASPER\\PROC�PIO\\RELAT�RIOS PROCOPIO\\REL. ANC. DOS CINTOS', bold)
+        ##worksheet.write('C1', 'tipo: Pasta')
         # Write some numbers, with row/column notation.
         ##worksheet.write(2, 0, 123)
         ##worksheet.write(10, 0, 123.456)
@@ -47,19 +49,20 @@ def createNewExcelFile(nome_do_novo_arquivo):
 
 import openpyxl
 
-def append(nome_do_arquivo_xlsx, usuario, evento, tipo):
+def append(nome_do_arquivo_xlsx, usuario, caminho, evento,tipoo, hora):
     try:
         workbook_obj = openpyxl.load_workbook(nome_do_arquivo_xlsx)
         sheet_obj = workbook_obj.active
-        col1 = f'user: {usuario}'
-        col2 = f'Evento: {evento}'
-        col3 = f'Tipo: {tipo}'###O parametro tipo e referencia a se é um diretorio ou nao!!!
-
-        sheet_obj.append([col1, col2, col3])
+        col1 = f'Usuário: {usuario}'
+        col2 = f'Caminho: {caminho}'
+        col3 = f'Tipo: {tipoo}'
+        col4 = f'Evento: {evento}'###O parametro tipo e referencia a se é um diretorio ou nao!!!
+        col5 = f'Hora: {hora}'
+        sheet_obj.append([col1, col2, col3, col4,col5])
         workbook_obj.save(nome_do_arquivo_xlsx)
     except PermissionError:
         print("\033[31;1mFATAL ERROR!!!\033[m")
         print("\033[31;1mNão é possivel executar o programa se a tabela do excel estiver aberta!!!\033[m")
 
-append('teste.xlsx')
-
+#append("teste.xlsx","Douglas", "caminho-z", "modified", "arquivo", "14:00")
+createNewExcelFile("eventos.xlsx")
