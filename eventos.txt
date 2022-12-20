@@ -1,5 +1,4 @@
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\02 - CA PERICIAS EIRELLI - ME\18 - ORÇAMENTO PLAQUETAS DE REBOQUES\ETIQUETAS DO BRASIL diretorio? True user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
-Evento modified caminho: \\CAPSV\Users\Public\RAFAEL\Epic_Shielder-diretamente-do-lenovo-ideapad\eventos.txt diretorio? False user: Douglas (PROGRAMADOR)
+Usuário: Desconhecido | Caminho: \\CAPSV\Users\Public\01 - ASPER\3º RODA\PROPOSTA 0906-16 CA PERÍCIAS - 3º RODA.docx | Tipo: arquivo | Evento: modified | Horario: 12:06 20/12/2022
+b'Usu\xc3\xa1rio, avi\xc3\xa3o, cacha\xc3\xa7a'
+Usuário: Desconhecido | Caminho: \\CAPSV\Users\Public\11 - LEGISLAÇÕES\990-22\PORTARIA SENATRAN Nº 990, DE 01 DE AGOSTO DE 2022 - REVISADO.pdf | Tipo: arquivo | Evento: modified | Horario: 12:07 20/12/2022
+b'Usu\xc3\xa1rio, avi\xc3\xa3o, cacha\xc3\xa7a'
