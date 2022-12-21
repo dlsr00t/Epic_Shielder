@@ -31,13 +31,13 @@ class MyHandler(FileSystemEventHandler):
         elif event.event_type == "deleted":
             tipo_evento = "\033[31m deleted \033[m"
         
-            print(f'Usuário: X | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
+            print(f'Usuario: X | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
             with open("eventos.txt", "a+") as eventos:
                 horario = datetime.datetime.now()
                 horario = horario.strftime('%H:%M %d/%m/%Y')
 
                 #print(type(hora))
-                eventos.write(f'Usuário: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
+                eventos.write(f'Usuario: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
                 print(horario[:22])
                 eventos.write('\n')
             
@@ -47,14 +47,16 @@ class MyHandler(FileSystemEventHandler):
             #print(type(event.src_path))
             #event.src_path = "".join(map(chr, event.src_path))
 
-            print(f'Usuário: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
+            print(f'Usuario: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {event.event_type} | Horario: {horario}')
             with open("eventos.txt", "a+") as eventos:
                 horario = datetime.datetime.now()
                 horario = horario.strftime('%H:%M %d/%m/%Y')
 
                 ##print(type(hora))
-                eventos.write(f'Usuário: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {tipo_evento} | Horario: {horario}')
+                eventos.write(f'Usuario: Desconhecido | Caminho: {event.src_path} | Tipo: {tipo} | Evento: {event.event_type} | Horario: {horario}')
                 ##print(horario[:22])
+                eventos.write('\n')
+                
                 eventos.write('\n')
             
             print(type(event.src_path), type(tipo), type(tipo_evento), type(horario))
@@ -72,7 +74,6 @@ def get_m_time():
     ##print(os.path.getmtime(path))
     horario = datetime.datetime.now()
     horario = horario.strftime('%H:%M %d/%m/%Y')
-
     return horario
 
 def append(nome_do_arquivo_xlsx, usuario, caminho, tipoo, evento, hora):
@@ -89,6 +90,7 @@ def append(nome_do_arquivo_xlsx, usuario, caminho, tipoo, evento, hora):
     except PermissionError:
         print("\033[31;1mFATAL ERROR!!!\033[m")
         print("\033[31;1mNão é possivel executar o programa se a tabela do excel estiver aberta!!!\033[m")
+        exit()
 
 os.system('cls')if os.name == 'nt' else os.system('clear')
 
