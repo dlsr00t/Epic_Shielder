@@ -22,6 +22,7 @@ def printInput():
     if inp == "clecio" and inp2 == "12345":
         lbl.config(text = "Olá "+inp)
         logado = True
+        print("logado")
         root.destroy()
 printButton = Button(root, text = "logar", command = printInput)
 printButton.pack() 

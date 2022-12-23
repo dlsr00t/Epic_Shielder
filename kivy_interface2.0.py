@@ -16,4 +16,3 @@ class MainApp(MDApp):
 		self.root.ids.password.text = ""		
 	
 MainApp().run()
-
