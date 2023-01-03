@@ -40,8 +40,17 @@ MDScreen:
             spacing: "20dp"
             adaptive_height: True
             size_hint_x: .8
-            pos_hint: {"center_x": .5, "center_y": .5}
-
+            pos_hint: {"center_x": .5, "center_y": .8}
+        
+            MDLabel:
+                adaptive_size: True
+                pos_hint: {"center_x": .5, "center_y": .5}
+                text: "Bem Vindo!"
+                allow_selection: True
+                padding: "4dp", "4dp"
+                bold: True
+                font_style: "H5"
+        
             MDTextField:
                 id: text_field1
                 mode: "round"
@@ -63,6 +72,7 @@ MDScreen:
                 text: "Logar"
                 
                 on_release: app.switch_theme_style()
+                on_release: app.log()
                 pos_hint: {"center_x": .5}
             
 
@@ -87,9 +97,22 @@ class Example(MDApp):
         self.theme_cls.theme_style = (
             "Dark" if self.theme_cls.theme_style == "Light" else "Light"
         )
+        
+
+    def get_input(self):
+        self.usuario = self.root.ids.text_field1.text
+        self.senha = self.root.ids.text_field2.text
+        
 
     def log(self):
-        pass
+        self.usuario = self.root.ids.text_field1.text
+        self.senha = self.root.ids.text_field2.text
+        if self.usuario == '01' and self.senha == "12345":
+            print("logado")
+        elif self.usuario == '006' and self.senha == "54321":
+            print("logado")
+            
+
         ###Do it###
 Example().run()
 
