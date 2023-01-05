@@ -1,6 +1,6 @@
 from kivy.lang import Builder
-
 from kivymd.app import MDApp
+
 
 KV = '''
 <ClickableTextFieldRound>:
@@ -75,11 +75,9 @@ MDScreen:
                 on_release: app.log()
                 pos_hint: {"center_x": .5}
             
-
-            
-
 '''
 
+###falta interligar o epic_shielder a tabela e o opener
 
 class Example(MDApp):
     def build(self):
@@ -104,6 +102,7 @@ class Example(MDApp):
         self.senha = self.root.ids.text_field2.text
         
 
+
     def log(self):
         self.usuario = self.root.ids.text_field1.text
         self.senha = self.root.ids.text_field2.text
@@ -113,6 +112,9 @@ class Example(MDApp):
             print("logado")
             
 
+
         ###Do it###
 Example().run()
+
+
 
