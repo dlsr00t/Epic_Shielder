@@ -2,10 +2,13 @@ from kivy.lang import Builder
 from kivymd.app import MDApp
 
 
+
+
 KV = '''
 <ClickableTextFieldRound>:
     size_hint_y: None
     height: text_field.height
+
 
     MDTextField:
         id: text_field
@@ -13,6 +16,7 @@ KV = '''
         text: root.text
         password: True
         icon_left: "key-variant"
+
 
     MDIconButton:
         icon: "eye-off"
@@ -35,6 +39,17 @@ MDScreen:
         shadow_radius: 6
         shadow_offset: 0, 2
 
+
+        MDLabel:
+            id: texto_label
+            text: "Bem Vindo!"
+            halign: "center"
+            valign: "center"
+            bold: True
+            font_style: "H5"
+            
+
+        
         MDBoxLayout:
             orientation: "vertical"
             spacing: "20dp"
@@ -42,23 +57,17 @@ MDScreen:
             size_hint_x: .8
             pos_hint: {"center_x": .5, "center_y": .8}
         
-            MDLabel:
-                adaptive_size: True
-                pos_hint: {"center_x": .5, "center_y": .5}
-                text: "Bem Vindo!"
-                allow_selection: True
-                padding: "4dp", "4dp"
-                bold: True
-                font_style: "H5"
         
             MDTextField:
                 id: text_field1
                 mode: "round"
                 hint_text: "Digite seu id"
                 icon_left: "account-circle"
+            
                 pos_hint: {"center_x": .5, "center_y": .5}
                 size_hint_x: .5
-            
+
+
             MDTextField:
                 id: text_field2
                 mode: "round"
@@ -72,25 +81,32 @@ MDScreen:
                 text: "Logar"
                 
                 on_release: app.switch_theme_style()
-                on_release: app.log()
+                on_press: app.log()
                 pos_hint: {"center_x": .5}
             
+
+
+
+            
+
 '''
 
-###falta interligar o epic_shielder a tabela e o opener
 
 class Example(MDApp):
+    
     def build(self):
         self.theme_cls.theme_style_switch_animation = True
         self.theme_cls.theme_style_switch_animation_duration = 0.8
         self.theme_cls.theme_style_switch_animation = True
         self.theme_cls.theme_style = "Dark"
         self.theme_cls.primary_palette = "Green"
+        
         return Builder.load_string(KV)
 
+   
     def switch_theme_style(self):
         self.theme_cls.primary_palette = (
-            "Orange" if self.theme_cls.primary_palette == "Red" else "Red"
+            "Green" if self.theme_cls.primary_palette == "Purple" else "Purple"
         )
         self.theme_cls.theme_style = (
             "Dark" if self.theme_cls.theme_style == "Light" else "Light"
@@ -102,7 +118,6 @@ class Example(MDApp):
         self.senha = self.root.ids.text_field2.text
         
 
-
     def log(self):
         self.usuario = self.root.ids.text_field1.text
         self.senha = self.root.ids.text_field2.text
@@ -110,11 +125,15 @@ class Example(MDApp):
             print("logado")
         elif self.usuario == '006' and self.senha == "54321":
             print("logado")
-            
-
+        else:
+            self.err = True
 
         ###Do it###
 Example().run()
+
+
+
+
 
 
 

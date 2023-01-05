@@ -19,6 +19,7 @@ class PopupWindow(Widget):
 class P(FloatLayout):
 	pass
 
+
 # function that displays the content
 def popFun():
 	show = P()
